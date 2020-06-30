@@ -4,10 +4,10 @@
 
 
 
-![Cкрины авто-статуса](https://vk.com/piska828?z=photo564602988_457240605%2Fphotos564602988)
+![alt text](Screenshot_529.png "Cкрины авто-статуса.")​
 
 
-
+Screenshot_529.png
 
 
 **Установка для Termux**
