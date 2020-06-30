@@ -7,12 +7,11 @@
 ![alt text](Screenshot_529.png "Cкрины авто-статуса.")​
 
 
-Screenshot_529.png
 
 
 **Установка для Termux**
 -----------------------------------------------------------------------------------------------
-pkg upgrade && pkg update
+pkg upgrade && pkg update\n
 pkg install python && pkg install git
 git clone https://github.com/mishaQ23n/auto-status
 cd auto-status
